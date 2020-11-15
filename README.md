@@ -40,3 +40,16 @@ To create a custom video player independant from the video player already availa
 
 1. DOM manipulation
 2. HTML5 video and audio API
+
+---
+
+## project 4: Exchange Rate Calculator
+
+**Aim**<br>
+To create an exchange rate calculator. Should display UI with 2 select lists for countries and 2 inputs for amounts. Fetch exchange rates from API (<https://api.exchangerate-api.com>) to display the values for both countries. The values should update with the amount change and there should be a button to swap the country rates.
+
+**Concepts used:**
+
+1. DOM manipulation
+2. Fetch Api
+3. Promises
