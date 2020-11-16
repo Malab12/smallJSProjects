@@ -53,3 +53,16 @@ To create an exchange rate calculator. Should display UI with 2 select lists for
 1. DOM manipulation
 2. Fetch Api
 3. Promises
+
+---
+
+## project 5: DOM Array Methods
+
+**Aim**<br>
+Fetch random users from the randomuser.me API. Use forEach() to loop and output user/wealth. Use map() to double wealth. Use filter() to filter only millionaires. Use sort() to sort by wealth. Use reduce() to add all wealth
+
+**Concepts used:**
+
+1. Array methods
+2. Fetch Api
+3. Async Await
