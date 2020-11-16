@@ -54,6 +54,8 @@ To create an exchange rate calculator. Should display UI with 2 select lists for
 2. Fetch Api
 3. Promises
 
+**NOTE:** This project was done using the trial version of the exchange rate api, its ability to work in the future is not garunteed
+
 ---
 
 ## project 5: DOM Array Methods
