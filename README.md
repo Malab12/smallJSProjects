@@ -68,3 +68,15 @@ Fetch random users from the randomuser.me API. Use forEach() to loop and output 
 1. Array methods
 2. Fetch Api
 3. Async Await
+
+---
+
+## project 6: Modal and Menu Bar
+
+**Aim**<br>
+Create and style landing page. Style side nav and modal .Add functionality to make menu open/close on button click. Add functionality to make modal open/close on button click.
+
+**Concepts used:**
+
+1. DOM manipulation
+2. CSS animations
