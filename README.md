@@ -101,3 +101,14 @@ Play again button to reset game.
 3. Fetch API: to be implemented
 
 ---
+
+## project 8: Meal Finder
+
+**Aim**<br>
+Search and generate random meals from the <https://themealdb.com> API .Display UI with form to search and button to generate. Connect to API and get meals. Display meals in DOM with image and hover effect. Click on meal and see the details.
+Click on generate button and fetch & display a random meal.
+
+**Concepts used:**
+
+1. Fetch API
+2. DOM manipulation
