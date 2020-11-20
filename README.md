@@ -112,3 +112,22 @@ Click on generate button and fetch & display a random meal.
 
 1. Fetch API
 2. DOM manipulation
+
+---
+
+## project 9: Expense Tracker
+
+**Aim**
+Keep track of income and expenses. Add and remove items and save to local storage.
+Create UI for project.
+Display transaction items in DOM.
+Show balance, expense and income totals.
+Add new transation and reflect in total.
+Delete items from DOM.
+Persist to local storage.
+
+**Concepts used:**
+
+1. DOM manipulation
+2. High order array methods
+3. Local storage
