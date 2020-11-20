@@ -73,7 +73,7 @@ Fetch random users from the randomuser.me API. Use forEach() to loop and output 
 
 ## project 6: Modal and Menu Bar
 
-**Aim**<br>
+**Aim**\
 Create and style landing page. Style side nav and modal .Add functionality to make menu open/close on button click. Add functionality to make modal open/close on button click.
 
 **Concepts used:**
@@ -85,7 +85,7 @@ Create and style landing page. Style side nav and modal .Add functionality to ma
 
 ## project 7: Hangman Game
 
-**Aim**<br>
+**Aim**\
 Display hangman pole and figure using SVG.
 Generate a random word.
 Display word in UI with correct letters.
@@ -104,7 +104,7 @@ Play again button to reset game.
 
 ## project 8: Meal Finder
 
-**Aim**<br>
+**Aim**\
 Search and generate random meals from the <https://themealdb.com> API .Display UI with form to search and button to generate. Connect to API and get meals. Display meals in DOM with image and hover effect. Click on meal and see the details.
 Click on generate button and fetch & display a random meal.
 
@@ -117,7 +117,7 @@ Click on generate button and fetch & display a random meal.
 
 ## project 9: Expense Tracker
 
-**Aim**
+**Aim**\
 Keep track of income and expenses. Add and remove items and save to local storage.
 Create UI for project.
 Display transaction items in DOM.
