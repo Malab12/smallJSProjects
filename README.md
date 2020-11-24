@@ -131,3 +131,20 @@ Persist to local storage.
 1. DOM manipulation
 2. High order array methods
 3. Local storage
+
+---
+
+## Project 10: Music Player
+
+**Aim**\
+Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API.
+Create UI for music player including spinning image and song detail popup.
+Add play and pause functionality.
+Switch songs.
+Progress bar.
+
+**Concepts used:**
+
+1. DOM manipulation
+2. HTML5 audio API
+3. CSS animations
