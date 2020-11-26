@@ -148,3 +148,20 @@ Progress bar.
 1. DOM manipulation
 2. HTML5 audio API
 3. CSS animations
+
+---
+
+## Project 11: Infinite Scroll
+
+**Aim**\
+Display blog posts from j<https://jsonplaceholder.typicode.com/> and add infinite scroll to fetch posts and also add filter box.
+Create UI & custom CSS loader animation.
+Fetch initial posts from API and display.
+Scroll down, show loader and fetch next set of posts.
+Add filtering for fetched posts.
+
+**Concepts used:**
+
+1. DOM manipulation
+2. Fetch API
+3. CSS animations
