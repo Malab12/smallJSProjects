@@ -165,3 +165,23 @@ Add filtering for fetched posts.
 1. DOM manipulation
 2. Fetch API
 3. CSS animations
+
+---
+
+## Project 12: Typing Game
+
+**Aim**\
+Game to beat the clock by typing random words.
+Create game UI including a difficuly setting.
+Generate random word and place in DOM.
+Score increase after word is typed.
+Implement timer.
+Add certain amount of time after word is typed based on difficulty.
+Store difficulty setting in local storage.
+
+**Concepts used:**
+
+1. DOM manipulation
+2. Local Storage
+
+---
